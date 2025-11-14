@@ -1,4 +1,4 @@
-This is the official implementation of paper "A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning".
+This is the official implementation of paper "A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning" (TNNLS 2025).
 
 # SUNG
 
