@@ -47,14 +47,13 @@ bash run_experiments.sh
 Please cite our work if you find it useful:
 
 ```
-@article{sung,
+@article{SUNG,
   author={Guo, Siyuan and Sun, Yanchao and Hu, Jifeng and Huang, Sili and Chen, Hechang and Piao, Haiyin and Sun, Lichao and Chang, Yi},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TNNLS.2025.3633997}
+  year={2026},
+  volume={37},
+  number={5},
+  pages={2456-2468},
 }
 ```
